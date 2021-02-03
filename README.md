@@ -1,0 +1,2 @@
+# MySqlJapanCustomers
+Mysql school stuff
